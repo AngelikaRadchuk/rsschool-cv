@@ -23,11 +23,11 @@
 * I have experience in working with Photoshop and Figma 
 ---
 ### Code on CodeWars
-'''javascript
+```javascript
 function positineSum(arr) {
-    return arr.reduce((sum, numder) => number > 0 ? sum + numder : sum, 0))
+    return arr.reduce((sum, numder) => number > 0 ? sum + numder : sum, 0)
 } 
-
+```
 ---
 ### Contacts
 * _Telegram +380995595144_
