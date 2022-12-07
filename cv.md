@@ -6,7 +6,7 @@
 ---
 # Anzhelika Radchuk
 ## Front-End Developer
-
+*[portfolio](https://AngelikaRadchuk.github.io/rsschool-cv/cv)
 
 ---
 ### About me 
@@ -23,7 +23,10 @@
 * I have experience in working with Photoshop and Figma 
 ---
 ### Code on CodeWars
-
+'''javascript
+function positineSum(arr) {
+    return arr.reduce((sum, numder) => number > 0 ? sum + numder : sum, 0))
+} 
 
 ---
 ### Contacts
@@ -31,3 +34,5 @@
 * _Discord - radchuk21.03_
 * _Github - AnzhelikaRadchuk_
 * _angelkaradchuk@gmail.com_
+
+[def]: https://AngelikaRadchuk.github.io/rsschool-cv/cv
