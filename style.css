@@ -88,6 +88,23 @@ a {
     list-style: none;
     margin-top: 10px;
 }
+.if {
+    color: rgb(94, 26, 158);
+} 
+.of {
+    color:darkorange;
+}
+.uf {
+    color: rgb(44, 74, 165);
+}
+pre {
+    word-spacing: normal;
+    display: flex;
+}
+code {
+    color: #fff;
+    
+}
 .footer {
     display: flex;
     align-items: center;
