@@ -34,6 +34,7 @@ div {
 }
 a {
     text-decoration: none;
+    color: #fff;
 }
 .section-title {
     font-size: 24px;
@@ -57,9 +58,6 @@ a {
 }
 p {
     font-weight: 300;
-}
-a {
-    color: #fff;
 }
 .header {
     justify-content: center;  
@@ -102,8 +100,12 @@ pre {
     display: flex;
 }
 code {
-    color: #fff;
-    
+    color: #fff; 
+}
+.icon {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
 }
 .footer {
     display: flex;
@@ -111,7 +113,7 @@ code {
     list-style: none;
     font-size: 15px;
     text-decoration: none;
-    padding-top: 30px;
+    padding: 30px;
     background-color: #929392;
 }
 .footer li {
